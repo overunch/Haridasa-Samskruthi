@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
-  "apk_url": "https://raw.githubusercontent.com/overunch/Haridasa-Samskruthi/main/base.apk",
+  "version": "1",
+  "apk_url": "https://github.com/overunch/Haridasa-Samskruthi/releases/download/v1/app.apk",
   "message": "A new version is available!"
 }
